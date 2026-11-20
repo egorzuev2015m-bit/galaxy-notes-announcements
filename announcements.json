@@ -1,1 +1,11 @@
-
+{
+  "version": 1,
+  "messages": [
+    {
+      "id": 1,
+      "title": "Galaxy Notes",
+      "message": "Добро пожаловать!",
+      "date": "2026-11-20"
+    }
+  ]
+}
